@@ -1,0 +1,9 @@
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\bin\Debug\prueba2.exe.config
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\bin\Debug\prueba2.exe
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\bin\Debug\prueba2.pdb
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.csprojResolveAssemblyReference.cache
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.Form1.resources
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.Properties.Resources.resources
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.csproj.GenerateResource.Cache
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.exe
+c:\users\gomez\documents\visual studio 2012\Projects\prueba2\prueba2\obj\Debug\prueba2.pdb
