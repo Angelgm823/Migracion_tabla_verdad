@@ -8,7 +8,7 @@ Programa de migración ADB
 
 _Esto es un texto_
 
-![TecNM](https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo-TecNM-2017.png)
+![TecNM](https://bdelrio.tecnm.mx/conocenos/identidad/icon_tecnm.jpg)
 
 🐤 🇲🇽 :octocat: 
 
